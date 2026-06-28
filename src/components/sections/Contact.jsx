@@ -2,6 +2,7 @@ import { useState } from "react"
 import GridBackground from "../effects/GridBackground"
 import { Mail, Send } from "lucide-react"
 import Card from "../ui/card"
+import Input from "../ui/input"
 import Button from "../ui/button"
 
 function FacebookIcon(props) {
